@@ -1,5 +1,5 @@
 import React from 'react';
-import Koala from '../src/components/Koala';
+import Koala from './components/Village/Koala';
 import './App.css';
 
 function App() {

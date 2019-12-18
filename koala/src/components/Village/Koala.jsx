@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import Box from './Box';
+import Box from '../Neighbourhood/Box';
 
 class Koala extends Component {
     render() {

@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 
-class Box extends Component {
+class Head extends Component {
     render() {
         return (
-            <div className='box'>
+            <div className='head'>
                 
             </div>
         )
     }
 }
 
-export default Box;
+export default Head;
