@@ -1,10 +1,10 @@
 import React from 'react';
-import Head from '../src/Head';
+import Koala from '../src/components/Koala';
 import './App.css';
 
 function App() {
   return (
-    <Head/>
+    <Koala/>
   );
 }
 
